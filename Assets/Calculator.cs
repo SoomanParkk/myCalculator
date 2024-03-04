@@ -30,7 +30,7 @@ public class Calculator : MonoBehaviour
     }
 
 
-    public void iDivision()
+    public void DivideFloat()
     {
         num1 = float.Parse(resultText.text);
         operation = ("/");
